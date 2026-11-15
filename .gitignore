@@ -1,0 +1,24 @@
+# Secrets & local configuration
+config.php
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local uploads, logs and dependencies
+vendor/
+node_modules/
+*.log
+*.sqlite
+*.sqlite3
+*.sql.gz
+*.zip
+
+# Temporary files
+*.tmp
+*.bak

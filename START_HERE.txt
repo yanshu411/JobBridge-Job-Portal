@@ -1,0 +1,14 @@
+JOBBRIDGE - QUICK START (Windows / XAMPP)
+
+1. Copy the entire folder to C:\xampp\htdocs\jobbridge
+2. Start Apache and MySQL in XAMPP Control Panel.
+3. Open http://localhost/phpmyadmin
+4. Click Import, choose database.sql, and complete the import.
+5. If needed, edit config.php to match your MySQL credentials.
+6. Open http://localhost/jobbridge/
+7. Register an Employer and post a job.
+8. Log out, register a Candidate, and apply.
+9. Return as Employer -> My listings -> Applicants.
+
+Important: Use fictional data. This is a portfolio demo, not a production service.
+See README.md for more details.
